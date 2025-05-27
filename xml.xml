@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<inventario>
+    <balones >
+        <ubicacion>Chicago, Illinois(Fabrica)</ubicacion>
+        <usuario>Alvaro Paton</usuario>
+        <marca>Wilson</marca>
+    </balones>
+    <Equipaciones >
+        <web>https://www.wibostore.com</web>
+        <usuario>Alvaro Paton</usuario>
+        <marca>Wibo</marca>
+    </Equipaciones>
+</inventario>

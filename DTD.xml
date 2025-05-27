@@ -1,0 +1,13 @@
+<!DOCTYPE inventario [
+    <!ELEMENT inventario (balones, Equipaciones)>
+    
+    <!ELEMENT balones (ubicacion, usuario, marca)>
+    <!ELEMENT ubicacion (#PCDATA)>
+    <!ELEMENT usuario (#PCDATA)>
+    <!ELEMENT marca (#PCDATA)>
+
+    <!ELEMENT Equipaciones (web, usuario, marca)>
+    <!ELEMENT web (#PCDATA)>
+    <!ELEMENT usuario (#PCDATA)>
+    <!ELEMENT marca (#PCDATA)>
+]>
