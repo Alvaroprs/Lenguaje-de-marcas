@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="catalogo.xsl"?>
+<catalogo>
+  <producto>
+    <nombre>Balon talla 5</nombre>
+    <precio>25</precio>
+  </producto>
+  <producto>
+    <nombre>Balon talla 7</nombre>
+    <precio>35</precio>
+  </producto>
+  <producto>
+    <nombre>camiseta entreno</nombre>
+    <precio>10</precio>
+  </producto>
+  <producto>
+    <nombre>camisa juego</nombre>
+    <precio>20</precio>
+  </producto>
+   <producto>
+    <nombre>pantalon juego</nombre>
+    <precio>20</precio>
+  </producto>
+   <producto>
+    <nombre>cubre</nombre>
+    <precio>15</precio>
+  </producto>
+   <producto>
+    <nombre>calcetines</nombre>
+    <precio>9</precio>
+  </producto>
+  <producto>
+    <nombre>mochila</nombre>
+    <precio>15</precio>
+  </producto>
+</catalogo>
